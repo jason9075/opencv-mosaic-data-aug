@@ -40,4 +40,4 @@ tmtagsHistory
 *.sublime-workspace
 .bundle
 
-*.jpg
+./*.jpg
